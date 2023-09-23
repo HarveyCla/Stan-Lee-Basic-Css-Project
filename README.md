@@ -78,7 +78,7 @@ Build a Website that is functionally similar to this: [Stanlee Web Page](https:/
 
 ## Resources
 
--  [Background Image Url](./img/StanLee.png)
+-  [Screen Shot](./img/StanLee.png)
 
 
 <p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>
